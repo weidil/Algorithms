@@ -1,5 +1,5 @@
 # Algorithms
-some interesting algorithms. Ideas were from online sources. just for study purpose
+some interesting algorithms. Ideas were from online sources. just for study purpose. Language: Python
 ## BFS
 Breadth-first search
 ## DFS
